@@ -1,11 +1,11 @@
 {
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Runtime guardrail that hands your coding agent the live call graph and anchored rules",
   "homepage": "https://unerr.dev",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/unerr-ai/unerr/releases/download/v0.4.1/unerr-windows-x64.zip",
+      "url": "https://github.com/unerr-ai/unerr/releases/download/v0.4.2/unerr-windows-x64.zip",
       "hash": ""
     }
   },
